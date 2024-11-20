@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\Restuarant Bill\Restuarant Bill\bin\Debug\Restuarant Bill.exe
+C:\Users\DELL\source\repos\Restuarant Bill\Restuarant Bill\bin\Debug\Restuarant Bill.exe.config
+C:\Users\DELL\source\repos\Restuarant Bill\Restuarant Bill\obj\Debug\Restuarant Bill.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Restuarant Bill\Restuarant Bill\obj\Debug\Restuarant Bill.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Restuarant Bill\Restuarant Bill\obj\Debug\Restuarant Bill.exe
+C:\Users\DELL\source\repos\Restuarant Bill\Restuarant Bill\obj\Debug\Restuarant Bill.pdb
